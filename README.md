@@ -1,5 +1,10 @@
 ﻿# Pymaceuticals Inc.
 
+<div align="center">
+    <img src="https://github.com/Xthe23/Mice-Treatment-Results-Analysis/blob/main/Pymaceuticals/Resources/mouselump.png" width="500" height="500">
+</div>
+
+
 This project focuses on the analysis of data related to Pymaceuticals Inc., a fictitious pharmaceutical company. The primary aim is to understand the results of treatments on mice over time. The dataset comprises of two CSV files: one detailing mouse metadata and the other detailing study results. These are then combined and processed to provide various insights.
 
 Below is a snippet of the `pymaceuticals.ipynb` file used in this project. For the complete code, please [click here](https://github.com/Xthe23/data-visualization/blob/main/Pymaceuticals/pymaceuticals.ipynb).
